@@ -1,0 +1,1 @@
+{"version":1,"defects":{"PokemonTest::testGreetsWithName":7},"times":{"PokemonTest::testGreetsWithName":0.025,"PokemonTest::testInstanciate":0.002,"PokemonTest::testIspropertyExist":0.001}}
